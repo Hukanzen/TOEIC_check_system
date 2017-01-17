@@ -27,23 +27,6 @@ sub import_file{
 	close(IN);
 
 	return @data;
-
-	#for(my $i=0;$i<$tmp[0];$i++){
-	#	$data[$i]=0;
-	#}
-
-	#for(my $i=0;$i<$tmp[0];$i++){
-	#	my $bango=$tmp[$i+1];
-	#	$bango=~s/-\d+$//;
-
-	#	my $kota=$tmp[$i+1];
-	#	$kota=~s/^\d+-//;
-
-	#	$data[$bango]=$kota;
-	#	print $data[$bango];
-	#}
-	#return 1;
-	#return <IN>;
 }
 
 sub kaigyo{
