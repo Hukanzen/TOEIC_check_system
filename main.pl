@@ -21,7 +21,7 @@ print "READINGは問題数:".$mon_num_1."  "."正答数:".$result_1,"です。\n
 sub import_file{
 	my ($file)=shift;
 
-	open(IN,$file) or die("error :$!");
+	open(IN,$file) or die("$file :$!");
 	my @data=<IN>;
 
 	close(IN);
@@ -43,7 +43,6 @@ sub scoring{
 	
 	my $i=0;
 	foreach(@$ans){
-		print "checking ".&kaigyo($_)."\n";
 		if($i==0){
 			$point=0;
 			$i=-1;
