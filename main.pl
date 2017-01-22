@@ -52,7 +52,7 @@ sub scoring{
 		my $an_ans=&kaigyo($_);
 		
 		my $an_number=$an_ans;
-		$an_number=~s/-\d$//;
+		$an_number=~s/-\d?$//;
 		#print $an_number;
 		#
 		my $j=0;
@@ -63,12 +63,12 @@ sub scoring{
 			}
 
 			my $t_number=&kaigyo($_);
-			$t_number=~s/-\d$//g;
+			$t_number=~s/-\d?$//g;
 			if($an_ans eq &kaigyo($_)){
 				$point++;
 				last;
 			}elsif($an_number eq $t_number){
-			#	print $an_ans." : ".$_;
+				#print $an_ans." : ".$_;
 			}
 		}
 
