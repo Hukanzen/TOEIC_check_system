@@ -16,7 +16,9 @@ my $result_0=&scoring(\@ans_0,\@test_0);
 my $result_1=&scoring(\@ans_1,\@test_1);
 
 print "LISTENINGは問題数:".$mon_num_0."  "."正答数:".$result_0,"です。\n";
+print @test_0[-1];
 print "READINGは問題数:".$mon_num_1."  "."正答数:".$result_1,"です。\n";
+print @test_1[-1];
 
 sub import_file{
 	my ($file)=shift;
