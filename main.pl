@@ -70,7 +70,7 @@ sub scoring{
 				$point++;
 				last;
 			}elsif($an_number eq $t_number){
-				#print $an_ans." : ".$_;
+				print $an_ans." : ".$_;
 			}
 		}
 
