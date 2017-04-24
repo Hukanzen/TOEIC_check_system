@@ -1,0 +1,724 @@
+===L53
+(1) I am going to play tennis
+(2) Mika is going to meet her friend
+(3) He is going to visit China
+(4) I am going to go shopping this weekend.
+(5) We are going to clean the park tomorrow.
+(6) My mother is going to a concert next Monday.
+(7) Mr.Johnson is going to come to Japan next year.
+(8) I'm going to be late.
+
+===L54
+(1) I'm not going to have dinner today.
+(2) She isn't going to play basketball after school.
+(3) Is he come here tomorrow ? Yes,he is. No,he isn't.
+(4) Are you going to do your homework tonight? Yes,I am. No,I'm not.
+(5) Are they going to visit Australia on August? Yes,they are.No they aren't.
+(6) Are you going to buy this new book ? Yes,I am. No,I'm not.
+
+===L55
+(1) What are you going to do tommorow?
+(2) What is Daiki going to do this weekend?
+(3) When are you going to visit Aomori?
+(4) Where is he going to go ?
+(5) How long are you going to stay there?
+(6) When are you get up tomorrow ?
+(7) I am going to shopping.
+(8) She is going to visit Canada.
+
+===L56
+(1) You will a good teacher.
+(2) He will help Mika.
+(3) I will call him tomorrow.
+(4) I'll go with you.
+(5) I'll carry your bag.
+(6) They will be back soon.
+(7) We will free this afternoon.
+(8) It will cloudy tommorow.
+
+===L57
+(1) I won't  play video game today.
+(2) Misaki won't go there next week.
+(3) I won't late tonight.
+(4) Will Daiki call kenta later ? Yes,he will. No,he won't.
+(5) Will Ms,Suzuki come here at eight ? Yes,she will. No,she won't.
+(6) Will it  sunny tomorrow? Yes,it will. No,it won't.
+
+===TEST
+=1
+(1)I'm (2)will (3)go (4)Are (5)be (6)won't
+=2
+(1) Yes,She is.
+(2) No,he won't.
+(3) I'm going to clean my room.
+(4) He is going to stay three weeks.
+=3
+(1) I will call her now.
+(2) Will it sunny next morning.
+(3) I'm going to meet Yuka next week.
+(4) Where are you going to have lunch.
+(5) Were your father going to wash his car tomorrow?
+(6) I'm not going to visit Okinawa this month.
+
+===L58
+(1) I can play the piano.
+(2) Daiki can't play the guitar.
+(3) He can run fast.
+(4) She can't read Japanese.
+(5) They can ski well.
+(6) My dog cat swim.
+(7) I can't hear your talking.
+(8) Mr.Johnson can speak four language.
+
+===L59
+(1) Can you play the piano?
+(2) Can she read Japanese?
+(3) Can you swim? Yes,I can. No,I can't.
+(4) Can your sister drive ? Yes,she can. No,she can't.
+(5) Can you ski ? Yes,I can. No,I can't.
+(6) Can you hear me? Yes,I can. No,I can't.
+
+===L60
+(1) Can I use this phone?
+(2) Can you open the door?
+(3) Can you help me?
+(4) Can I read this letter?
+(5) Can you close the window?
+(6) Can I use your dictionary?
+(7) Can you play the piano for me?
+(8) Can I habe some water?
+
+===L61
+(1) Can you come here?
+(2) Could you help me?
+(3) Can you the window?
+(4) Could you read this for me?
+(5) Could you wait here?
+(6)Sure. (7)All right.
+
+===L62
+(1) Will you help me ?
+(2) Would you close the window?
+(3) May I use your computer?
+(4) Can I sit here?
+(5) May I use this phone ?
+(6) May I come in?
+(7) Will you wash the dishes?
+(8) Would you say that again?
+
+===L63
+(1) Shall I help you?
+(2) Shall we have lunch together?
+(3) What shall we do?
+(4) Shall I call you later?
+(5) Shall I open the window?
+(6)Yes,let's. (7)Yes,please.
+
+===L64
+(1)have to (2)has to (3)have to
+(4) Kenta has to go the hospital.
+(5) You have to practice the piano.
+(6) I have to finish my homework now.
+(7) You have to use English.
+(8) Sha have to early go home.
+
+===L65
+(1) You don't have to hurry.
+(2) Yumi doesn't have to get up early tomorrow.
+(3) Do you have to practice every day?
+(4) Do Jim have to leave Japan next month?
+(5) Do you have to go now? 
+(6) I don't have to study my homework today.
+(7) Do I have to work tomorrow?
+(8) Does he speak English there? Yes,he does.No,he doesn't.
+
+===L66
+(1) You must go the hospital.
+(2) You mustn't use Japanese in class.
+(3) You mustn't touch there paintings.
+(4) We must haury.
+(5) You must read this book.
+(6) He must work hard.
+(7) You mustn't open the door.
+
+===TEST
+=1
+(1)have (2)don't (3)must (4)swim
+=2
+(1)i (2)u (3)a (4)u (5)u
+=3
+(1) Shall I help you?
+(2) May I come in your room?
+(3) Can you open the window?
+(4) You don't have to worry.
+(5) Shall I meet here two o'clock.
+(6) Cloud you wait here.
+
+===L67
+(1)a (2)a (3)i
+(4) She gets up early to make breakfast.
+(5) kenta went home to watch TV.
+
+===L68
+(1) to borrow some books.
+(2) to play games.
+(3) I got up early to do my homework.
+(4) Mr.Suzuki came to see you this morning.
+(5) to hear that.
+(6) to hear that.
+(7) to hear the news.
+(8) to see the picture.
+
+===L69
+(1) homework to do
+(2) time to read books.
+(3) places to see
+(4) time to go to bed
+(5) something to drink.
+(6) something to eat.
+(7) anything to do
+(8) nothing to do
+
+===L70
+(1) to visit many countries.
+(2) to be a teacher in the future.
+(3) to take pictures.
+(4) to write letters.
+(5) to study Japanese last year.
+(6) to sing a song.
+(7) to speak to him in English.
+(8) to call Mr.Suzuki.
+(9) to buy some vegetables.
+
+===L71
+(1) We enjoyed talking.
+(2) My father like listening to music.
+(3) She finish reading the story.
+(4) Making friends is easy.
+(5)writing (6)to see (7)studying (8)reading
+
+===TEST
+=1
+(1)to play (2)talking (3)To walk (4)Studying
+=2
+(1) I want some DVDs to watch.
+(2) She is going to buy a computer to play video games.
+=3
+(1) wants something to
+(2) want to go to
+=4
+(1) I want to live by the sea.
+(2) Sha want to be a teacher.
+(3) It will stop raining.
+(4) He visited Canada to ski.
+(5) We must do many homework.
+(6) I don't have time to sleep.
+(7) I began to use this cell phone last month.
+
+===L72
+(1) I think that this book is interesting.
+(2) I know that Ryuta likes sports.
+(3) I think soccer is popular
+(4) I think that my brother is busy.
+(5) I think that English is difficult.
+(6) I know that Mr.Sato is from Osaka.
+(7) I think that we need more time .
+
+===L73
+(1) when I got up
+(2) when she was young
+(3) when I visited her
+(4) when I get to the station
+(5) I was listening to music when you called me.
+(6) My mother wan cooking when I came home.
+(7) When I was a child,I wanted to a police officer.
+
+===L74
+(1) because you come home late
+(2) if you are hungry
+(3) if you have any questions.
+(4) bacause he have a cold
+(5) if you are sleepy
+(6) If you have time
+(7) He went home because he wanted to watch TV.
+(8) Because I like cherry blossoms.
+
+TEST
+=1
+(1)When (2)Because (3)if (4)because
+=2
+(1) think that math is interesting
+(2) help me if you are free
+(3) knows he is a teacher
+(4) thin when he was young
+=3
+(1) catch the bus if you go now
+(2) can't come the party because he is busy
+(3) I think that she come the party.
+(4) I think that he is right.
+(5) I know that you are busy.
+
+===L75
+(1) There is a cat on the desk.
+(2) There are six apples in the box.
+(3) There is a picture on the wall.
+(4) There is a bookstore near my home.
+(5) There are a lot of shrines in Kyoto.
+(6) There are some milk in the cup.
+(7) There were a lot of people in the park.
+
+===L76
+(1) There isn't a computer in the classroom.
+(2) There wasn't a stadium in my city.
+(3) There weren't any flowers in the garden.
+(4) There weren't any people in the park.
+(5) There isn't a hospital near here.
+(6) There aren't any books on the desk.
+
+===L77
+(1) Is there a blue bag under the table?
+(2) Is there a library near your house?
+(3) Is there an airport in your city? Yes,there is. No,there isn't.
+(4) Are there many animals in the zoo? Yes,there are. No,there aren't.
+(5) Is there any pictures on the wall? Yes,there is. No,there isn't.
+
+===TEST
+=1
+(1)is (2)are (3)Are (4)wasn't
+=2
+(1) No,there isn't.
+(2) Yes,there are.
+=3
+(1) Is there a hospital next to the station.
+(2) There wasn't a Japanese school here before.
+=4
+(1) There aren't any children on the street.
+(2) There was an old building over there.
+(3) Is there a cake in the box ?
+(4) There are four rooms in my house.
+(5) There are five people in my family.
+(6) There is a dog over there.
+
+===L78
+(1)sounds (2)got (3)looks
+(4) Mika looks glad.
+(5) They became famous.
+(6) sounds interesting
+(7) Daiki became a soccer player.
+(8) That building looked new.
+
+===L79
+(1) give you a present
+(2) tell me the way
+(3) showed us some pictures
+(4) talk her the story
+(5) gave me a bike
+(6) gave Kenta a ball
+(7) show me your notebook
+
+===L80
+(1) call me Jun
+(2) I call her Meg.
+(3) Daiki's parents call him Daichan.
+(4) We named the doog Rocky.
+(5) Her words made me happy.
+(6) The news made him sad.
+(7) The movie made her famous.
+(8) His smile always make me happy.
+
+===L81
+(1)give (2)call (3)looks
+(4) His latter made me happy.
+(5) Ted became a populer writer.
+(6) My father told me an intersting story.
+(7) Mr.Smith saw us a beautiful card/
+(8) You look pale.
+(9) This book made him populer.
+
+===TEST
+=1
+(1)call (2)his (3)Tom cookes (4)get (5)sounds
+=2
+(1) tell me his name
+(2) show me your computer
+(3) you give her a present
+(4) the story made us sad
+(5) He became a famous tennis player
+=3
+(1) Please tell me your e-mail address.
+(2) Ms.Suzuki looks very tired.
+(3) The news became their happy.
+(4) Plase tell me the way to the library.
+(5) The government gave their a lot of money.
+(6) Grand mother tell me a lot of intersting story.
+
+====L82
+(1)newer (2)taller (3)smaller
+(4) Ms.Yamada is older
+(5) than February
+(6) Mt.Fuji is higher than Mt.Asama.
+(7) Shota runs faster than Kenji.
+(8) This team is stronger than us.
+
+===L83
+(1)newest (2)tallest (3)smallest
+(4) Takuya is strongest
+(5) of the four
+(6) in Japan
+(7) She ran fastest in her class.
+(8) Which mountain is the highest ?
+(9) This is oldest building in this town.
+
+===L84
+(1)hotter,hottest (2)easier,easiest (3)larger,largest (4)better,best (5)more most
+(6) My dog is bigger than yours.
+(7) Daiki is my best friend .
+(8) Ms.Abe is busiest teacher in
+(9) Which is the larger China or Canada?
+(10) Today is happiest day of my life.
+
+===L85
+(1)more diffcult (2)most populer (3)most interesting
+(4) This photo is more beautiful than that photo.
+(5) This park is the most famous in our city.
+(6) I think that Japanese is most import subject.
+(7) Please speak a more little slowly.
+(8) His car is more expensive than mine.
+
+===L86
+(1)as fast as (2)as tall as (3)as new as
+(4) Tom is as old as
+(5) as busy as my mother.
+(6) My bag is as big as yours.
+(7) Emi can swim as well as Kumi.
+(8) This book isn't as interesting as that book.
+(9) This watch isn't as expensive as yours.
+
+===L87
+(1) bigger than mine
+(2) a largest lake in Japan
+(3) well than this
+(4) as well as Miki
+(5) a most important problem of all
+(6) more populer than volleyball
+(7) a most famous writer in his country
+
+===TEST
+=1
+(1)smaller (2)easiest (3)better (4)popular (5)most interesting (6)hotter (7)best (8)biggest
+=2
+(1) This lake is deeper than Lake Biwa.
+(2) Soccer is a most populer sport in his country.
+=3
+(1) He can't sing as well as Ichiro.
+(2) My computer is faster than yours.
+(3) This move was most interesting of three.
+(4) Mr.Suzuki is as old as my father.
+(5) Which country is most largest of four.
+(6) We ware busier than usual.
+(7) This is the best room in this hotel.
+
+===L88
+(1)is cleaned (2)is used (3)is made (4)is built (5)is painted (6)is played (7)is found
+
+===L89
+(1)made (2)invited (3)loved (4)written (5)spoken (6)taken (7)known (8)broken
+
+===L90
+(1) This game isn't sold
+(2) I wasn't invited 
+(3) He wasn't seen
+(4) French is spoken  Yes,it is. No,it isn't.
+(5) Was this room cleaned Yes,it was. No,it wasn't.
+(6) Was this picture taken  Yes,it was. No,it wasn't.
+
+===L91
+(1)was built (2)made (3)sent (4)was (5)didn't (6)wasn't (7)Did (8)Did (9)Was
+
+===TEST
+=1
+(1)is played (2)was painted (3)wasn't (4)Is (5)Were
+=2
+(1)visited (2)built (3)read (4)killed (5)held
+=3
+(1) This computer is made twenty years ago.
+(2) He is loved every one.
+(3) English is spoken many countries.
+(4) This book is witten a famous singer.
+(5) This room isn't used anymore.
+
+===L92
+(1) たぶんもう住んでいない
+(2) 今もまだ住んでいる
+(3) もう働いて~
+(4) 今もまだ~
+(5) もう駅には~
+(6) 今もまだ~
+(7) もう見つかった~
+(8) まだ見つかって~
+
+===L93
+(1) I have been sick
+(2) My mother has worked here
+(3) Ms.Jones has been in Japan
+(4) I have lived in Osaka
+(5) I have studied English
+(6) I have wanted a new bike
+(7) We have been here
+
+===L94
+(1) Have you know her Yes,I have. No,I haven't.
+(2) Have you been here Yes,I have. No,I haven't.
+(3) My mother hasn't eaten
+(4) I haven't met him
+(5) How long have you lived
+(6) How long have you been 
+
+===L95
+(1) I have seen this movie
+(2) I have been to Spain
+(3) Daiki have been to Okinawa
+(4) I have heard this storyj
+(5) I have saw this picture
+(6) I have met him
+(7) I have heaed your name
+(8) I have read this novel
+
+===L96
+(1) I have never played a video game.
+(2) I have never seen snow.
+(3) I have never been to abroad.
+(4) Have you ever been to Tokyo?
+(5) Have you ever saw a giraffe?
+(6) Have you ever heard of Kabuki?
+(7) Have we ever met?
+(8) Have you read any of her novel?
+
+===L97
+(1) I have just finished my homework.
+(2) I haven't finished my homework yet.
+(3) Have you finished your homework yet?
+(4) I have just arrived at the airport.
+(5) He has just left here.
+(6) He has left here yet.
+(7) Has she cleaned her room yet?
+(8) She has cleaned her room yet.
+(9) She has already her room.
+
+===L98
+(1) I have studied for three years.
+(2) Have you been here for a long time ?
+(3) Takuya has been to Hawaii twice.
+(4) Have you ever seen this picture ?
+(5) The train has just arrived.
+(6) Has he finished him homework yet?
+(7) Have you ever play the flute yet?
+(8) I have never  watched this DVD.
+
+===TEST
+=1
+(1)since (2)since (3)for (4)just (5)yet (6)ever (7)never (8)once
+=2
+(1) He has lived in this city for ten years.
+(2) I have never been to Hawaii.
+(3) Have you ever been to Hokkaido?
+(4) I haven't cleaned my room yet.
+(5) Have you finished your homework yet?
+(6) How long have you been in Japan?
+
+===L99
+(1) It makes pizza is easy.
+(2) It's important to help each other.
+(3) It was difficult to understand his message.
+(4) It's interesting to learn about other cultures.
+(5) It's hard for me to explain in English.
+(6) It's easy for her to swim 100 meters.
+(7) It's dangerous to go glone.
+(8) It's important to protect the environment.
+
+===L100
+(1) how to use this machine
+(2) how to play the chess
+(3) how to make this dish
+(4) how to go to Takuya's house
+(5) how to go to the station
+(6) how to go there
+(7) how to ride on bike
+(8) how to make an omelet
+
+===L101
+(1) what to do
+(2) what to say
+(3) where to go
+(4) where to buy a ticket
+(5) which to buy
+(6) where to get off the train
+
+===L102
+(1) you to read this letter
+(2) thier to be happy
+(3) him to be the leader
+(4) you to come with me
+(5) want me to help
+(6) me to tell about your country
+(7) want you to wait
+(8) want him to read this book
+
+===L103
+(1) tell me to clean the kitchn
+(2) tell us to speak in English
+(3) tell me to always read books
+(4) tell Daiki to come the library
+(5) I asked him to talk more slowly.
+(6) I asked her to explain in Japanese.
+(7) tell her to call me
+(8) He asked me to move my bike.
+
+===TEST
+=1
+(1) want you to join our team
+(2) I asked Kumi to help me
+(3) It's time to get up
+(4) told you to come here
+(5) It's hard for me to write
+(6) tell me how to get to
+(7) asked me where to get tickets
+(8) It's not easy to study English
+=2
+(1) tell her to call me back
+(2) I didn't know what to do.
+(3) I told Daiki to wait for here.
+(4) It's important to eat breakfast.
+(5) It's dangerous to swim here.
+(6) I don't know how to play this game.
+
+===L104
+(1) on the desk
+(2) in Tokyo
+(3) about animals
+(4) of my family
+(5) in this box
+(6) with long hair
+(7) from a friend in Canada
+
+===L105
+(1) running over there
+(2) fling ober there
+(3) reading a magazine
+(4) playing tennis with Takuya
+(5) standing by the door
+(6) playing the yard
+(7) talking with Mary
+(8) sleeping on the car
+
+===L106
+(1) taken in 1950
+(2) called Ken
+(3) spoken in India
+(4) sold over there
+(5) made in Japan
+(6) written in English
+(7) painted by my father
+(8) invited the party
+
+===L107
+(1) he took
+(2) we met
+(3) I read yesterday
+(4) I use everyday
+(5) you want
+(6) I saw there
+(7) my uncle gave me
+(8) you lost yesterday
+
+===TEST
+=1
+(1)walking (2)loved (3)spoken (4)used
+=2
+(1) The girl with long hair is
+(2) the things on the desk are
+(3) a present from a friend in Australia
+(4) I stayed at a hotel built
+=3
+(1) Who is the boy playing the piano?
+(2) The woman I met there
+(3) He running over there
+(4) pictures I took in London
+(5) a letter written in English
+(6) The book I bought last week
+
+===108
+(1) who live in Brazil
+(2) who took a picture
+(3) who can speak Russsian
+(4) who is good at cooking
+(5) who design buildings
+(6) who can't read Japanese
+(7) who played at the concert
+(8) who came yesterday
+
+===109
+(1) that makes toys
+(2) that change my life
+(3) that makes him famous
+(4) that was on the table
+(5) that go the station
+(6) that sells things
+(7) that was popular ten years ago
+
+===110
+(1) that he took
+(2) that I read yesterday
+(3) that I use everyday
+(4) that I saw last week
+(5) that I woute yesterday
+(6) that my uncle give me
+(7) that she bought lastweek
+(8) that he lost
+
+===111
+"maru" is T.
+"batsu" is F.
+(1)T (2)F (3)F (4)T (5)T (6)F
+
+===TEST
+=1
+(1) How was the movie you saw
+(2) the girl you want to meet
+(3) a movie that you will make happy
+(4) The boy was who won the game
+(5) the best movie that I've ever seen
+=2
+(1) a friend who can speak three languages
+(2) the book that makes him famous
+(3) anyone who can spaek Japanese
+(4) who painted this picture
+(5) the picture that I showed you last week
+(6) the man that I met at the party
+
+===112
+(1) I'd like ta hambuger
+(2) I'd like a cup of tea,please.
+(3) I'd like some water plaease.
+(4) I'd like to go the bathroom.
+(5) I'd like listen to this CD.
+(6) I'd like to see you again.
+(7) I'd like to ask some questions.
+(8) I'd like to try on this jacket.
+
+===113
+(1) Would you like some salad?
+(2) Would you like to come with us.
+(3) Would you like somethinsg to drink?
+(4) What would you like
+(5) Where would you like to go?
+(6) Wichi one would you like?
+
+===!!4
+(1) what this is
+(2) where she is
+(3) why he is angry
+(4) where Takuya lives
+(5) what color she likes
+(6) where she works
+(7) when he bought the watch
